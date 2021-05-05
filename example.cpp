@@ -1,7 +1,7 @@
 #include <iostream>
 #include "MemoryTools.h"
 
-//this is just a simple example of how to use this, you can do many more things with it
+//this is just a simple example of how to use search offset and write, you can do more things with it
 
 int main(int argc, char *argv[]) {
     initXMemoryTools(
